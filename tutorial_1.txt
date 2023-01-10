@@ -4,6 +4,9 @@ Cat
 Dog
 Spider
 Snake
+Iguana
+Mice
+Frog
 
 Names
 =====
