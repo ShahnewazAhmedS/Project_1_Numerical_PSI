@@ -1,4 +1,4 @@
-# Numerical-PSI-2023
+# First Project for Numerical-PSI-2023
 Numerical Course in PSI 2023 Program
 Shahnewaz Ahmed PSI student 2023
 File contained here are:
@@ -7,3 +7,4 @@ File contained here are:
 - The pdf version of this notebook
 - The html version of the notebook
 - License files
+- A csv file containing the data used for this project.
